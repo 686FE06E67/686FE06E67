@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @686FE06E67 (hoàng)
-- 👀 I’m interested in "Ctrl+C" && "Ctrl+v"
-- 🌱 I’m currently learning "Ctrl+X"
-- 💞️ I’m looking to collaborate on "Alt+F4"
+- 👋 Hi, I’m <b>@686FE06E67</b> <i>(hoàng)</i>
+- 👀 I’m interested in "<kbd>Ctrl</kbd>+<kbd>c</kbd>" && "<kbd>Ctrl</kbd>+<kbd>v</kbd>"
+- 🌱 I’m currently learning "<kbd>Ctrl</kbd>+<kbd>x</kbd>"
+- 💞️ I’m looking to collaborate on "<kbd>Alt</kbd>+<kbd>F4</kbd>"
 - 📫 How to reach me: git me
 
 <!---
