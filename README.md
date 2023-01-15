@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@686FE06E67</b> <i>(hoàng)</i>
+- 👋 Hi, I’m <b>@686FE06E67</b>
 - 👀 I’m interested in "<kbd>Ctrl</kbd>+<kbd>c</kbd>" && "<kbd>Ctrl</kbd>+<kbd>v</kbd>"
 - 🌱 I’m currently learning "<kbd>Ctrl</kbd>+<kbd>x</kbd>"
 - 💞️ I’m looking to collaborate on "<kbd>Alt</kbd>+<kbd>F4</kbd>"
